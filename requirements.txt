@@ -1,0 +1,7 @@
+faster-whisper
+openai
+aiohttp
+aiofiles
+pydub
+ffmpeg-python
+supabase
